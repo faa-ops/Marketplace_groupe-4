@@ -1,0 +1,17 @@
+#Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+#Angular / Node
+node_modules/
+/dist/
+.angular/
+.env
+
+#système
+.DS_Store
+Thumbs.db
